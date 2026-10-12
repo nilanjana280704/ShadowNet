@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+*.pem
+google-services.json
+GoogleService-Info.plist
+
+# Logs & caches
+*.log
+.cache/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Builds
+dist/
+build/

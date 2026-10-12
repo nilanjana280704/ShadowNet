@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ChakraPetch-Bold.ttf",
+      "sha1": "892cb95adf1d10272a381cfade86857ce209ceac"
+    },
+    {
+      "path": "assets/fonts/ChakraPetch-Medium.ttf",
+      "sha1": "3984af419bb425c32b3ad79c1dadec266035ac39"
+    },
+    {
+      "path": "assets/fonts/ChakraPetch-Regular.ttf",
+      "sha1": "b80f20abf3ad53f473fa24f951c31c20f76e81a0"
+    },
+    {
+      "path": "assets/fonts/ChakraPetch-SemiBold.ttf",
+      "sha1": "160db02f9ed5ad03147c296604b54e4865e77f24"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMono-Bold.ttf",
+      "sha1": "47f3fff92fa1ee6ab5d5af8af10aad5194d4d3e9"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMono-Medium.ttf",
+      "sha1": "47efe4c08ce765af0843b68eb390fdda14e2f351"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMono-Regular.ttf",
+      "sha1": "2ec2264f0a75984fb83ba3853d26da9971b25a55"
+    }
+  ]
+}
